@@ -2,7 +2,7 @@
 
 This project predicts whether a loan should be approved based on applicant details using a machine learning model. It includes a Streamlit web app for real-time predictions.
 
-#What It Does
+**What It Does**
 
 Takes user input like income, loan amount, credit score, and assets
 
@@ -10,7 +10,7 @@ Uses a trained machine learning model to predict approval
 
 Displays result instantly through a web interface
 
-#Tools Used
+**Tools Used**
 
 Python
 
@@ -20,7 +20,7 @@ Streamlit
 
 Pickle (for saving the model)
 
-#How It Works
+**How It Works**
 
 Data is cleaned and preprocessed
 
@@ -32,7 +32,7 @@ Streamlit is used to build the user interface
 
 The app is deployed online
 
-#Files
+**Files**
 
 app.py — Streamlit app
 
@@ -40,7 +40,7 @@ loan_model.pkl — Trained model
 
 requirements.txt — Python dependencies
 
-#How to Run
+**How to Run**
 
 Clone the repo
 
